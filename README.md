@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm Priyanka Koul</h1>
-<h3 align="center">My love language? Python, SQL, and a well-structured dataset :)</h3>
+<h3 align="center">Turning data into stories, one line of Python at a time 📊🐍</h3>h3>
 
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakoul001&" alt="priyankakoul001">
