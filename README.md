@@ -30,7 +30,7 @@
 # <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-    <a href="https://linkedin.com/in/priyanka-koul-0906a6301" target="blank">
+    <a href="https://www.linkedin.com/in/priyanka-koul-a5b1a5361/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
     </a>
 </p>
